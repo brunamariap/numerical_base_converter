@@ -17,5 +17,3 @@ def convert_to_decimal(number: str, base: int):
             decimal_number += int(value) * (base ** index)
 
     return decimal_number
-
-print('mudança 2')
